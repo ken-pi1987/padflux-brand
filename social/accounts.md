@@ -1,11 +1,13 @@
-# SNSアカウント情報
+# Padflux SNSアカウント一覧
 
-## 各プラットフォーム
+| プラットフォーム | アカウント | URL |
+|---|---|---|
+| YouTube | @padflux_app | - |
+| TikTok | @padflux_app | - |
+| Instagram | @padflux_app | - |
+| Bluesky | @padflux.com | - |
+| note | Padflux Lab | https://note.com/padflux |
+| Reddit | u/TrifleOk8354 | - |
 
-| プラットフォーム | アカウント |
-|---|---|
-| YouTube | padflux_app |
-| TikTok | padflux_app |
-| Instagram | padflux_app |
-| Bluesky | @padflux.com |
-| note | padflux |
+## 統一bio
+XYpad synthesizer for your browser. Free at padflux.com
